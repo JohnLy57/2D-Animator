@@ -1,0 +1,296 @@
+{
+ "_AObjectClass": "AAnimatedModelGroup",
+ "_uid": "fb993e87-b3a0-4f67-8d68-1d5b6717981d",
+ "_tempState": {},
+ "_modelProperties": {
+  "name": "rootModel",
+  "matrix": {
+   "elements": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  "position": {
+   "elements": [
+    0,
+    0
+   ]
+  },
+  "anchorshift": {
+   "elements": [
+    0,
+    0
+   ]
+  },
+  "scale": {
+   "elements": [
+    1,
+    1
+   ]
+  },
+  "rotation": 0,
+  "objectVertices": [],
+  "attributes": {
+   "fill": "#9ECFFF",
+   "opacity": 1,
+   "stroke": "#000000",
+   "linewidth": 2
+  }
+ },
+ "_name": "rootModel",
+ "_children": {
+  "06d7c027-5bc9-4c38-97bb-b1d9c4ee2341": {
+   "_AObjectClass": "AAnimatedModelGroup",
+   "_uid": "06d7c027-5bc9-4c38-97bb-b1d9c4ee2341",
+   "_tempState": {},
+   "_modelProperties": {
+    "name": "SkyBox",
+    "matrix": {
+     "elements": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+     ]
+    },
+    "position": {
+     "elements": [
+      150,
+      150
+     ]
+    },
+    "anchorshift": {
+     "elements": [
+      -150,
+      -150
+     ]
+    },
+    "scale": {
+     "elements": [
+      1,
+      1
+     ]
+    },
+    "rotation": 0,
+    "objectVertices": [],
+    "attributes": {
+     "fill": "#9ECFFF",
+     "opacity": 1,
+     "stroke": "#000000",
+     "linewidth": 2
+    }
+   },
+   "_name": "SkyBox",
+   "_children": {
+    "8013d295-0d30-4b1c-b75e-996bdd751a8b": {
+     "_AObjectClass": "AAnimatedModel",
+     "_uid": "8013d295-0d30-4b1c-b75e-996bdd751a8b",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "8013d",
+      "matrix": {
+       "elements": [
+        597.045748807313,
+        0,
+        296.99999999999994,
+        0,
+        224.7125677282939,
+        112.99999999999997,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        297,
+        113
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        -5.551115123125783e-17,
+        -1.1102230246251565e-16
+       ]
+      },
+      "scale": {
+       "elements": [
+        597.045748807313,
+        224.7125677282939
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [
+       {
+        "elements": [
+         -0.5,
+         -0.5
+        ]
+       },
+       {
+        "elements": [
+         0.5,
+         -0.5
+        ]
+       },
+       {
+        "elements": [
+         0.5,
+         0.5
+        ]
+       },
+       {
+        "elements": [
+         -0.5,
+         0.5
+        ]
+       }
+      ],
+      "attributes": {
+       "fill": "rgba(135,206,235,1)",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 0
+      },
+      "viewClass": "AView2D"
+     },
+     "_name": "8013d",
+     "_children": {},
+     "_objectSpaceCorners": [
+      {
+       "elements": [
+        -0.5,
+        -0.5
+       ]
+      },
+      {
+       "elements": [
+        0.5,
+        -0.5
+       ]
+      },
+      {
+       "elements": [
+        0.5,
+        0.5
+       ]
+      },
+      {
+       "elements": [
+        -0.5,
+        0.5
+       ]
+      }
+     ],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "52385ed1-5cb4-4f0e-afc2-157e9b94d5fa",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "aaedfa70-738a-47b2-9939-9828ebc86f62",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "690eb724-5a35-4866-8b06-753be995c613",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "cea5eb7c-e0de-4502-88a4-d1fc1a633b66",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    }
+   },
+   "_objectSpaceCorners": [],
+   "_keyframeTracks": {
+    "position": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "d9950153-410e-43de-94d3-abcb5870696e",
+     "_tempState": {},
+     "_name": "position",
+     "_keyframes": []
+    },
+    "scale": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "ae7505dd-9f0d-4445-b518-8fe4998a93d0",
+     "_tempState": {},
+     "_name": "scale",
+     "_keyframes": []
+    },
+    "rotation": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "2264ba5a-c4b9-42b1-abb0-b9db37291650",
+     "_tempState": {},
+     "_name": "rotation",
+     "_keyframes": []
+    },
+    "anchorshift": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "44f3b16b-c116-4007-8cba-bb07f14b7fbe",
+     "_tempState": {},
+     "_name": "anchorshift",
+     "_keyframes": []
+    }
+   },
+   "_currentDisplayTime": 0
+  }
+ },
+ "_objectSpaceCorners": [],
+ "_keyframeTracks": {
+  "position": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "84630279-6b0e-43d2-b98b-6016769024ab",
+   "_tempState": {},
+   "_name": "position",
+   "_keyframes": []
+  },
+  "scale": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "e784b25b-d98c-45c6-bfe6-f6161671003d",
+   "_tempState": {},
+   "_name": "scale",
+   "_keyframes": []
+  },
+  "rotation": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "0d724d55-21a8-4e24-b1db-b01663bb76c7",
+   "_tempState": {},
+   "_name": "rotation",
+   "_keyframes": []
+  },
+  "anchorshift": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "9749fb91-129d-4cd3-b0ee-dbf8ecd5da0f",
+   "_tempState": {},
+   "_name": "anchorshift",
+   "_keyframes": []
+  }
+ },
+ "_currentDisplayTime": 0
+}

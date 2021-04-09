@@ -1,0 +1,3806 @@
+{
+ "_AObjectClass": "AAnimatedModelGroup",
+ "_uid": "ebaccec0-3aa7-42f4-a103-763b2ca285a0",
+ "_tempState": {},
+ "_modelProperties": {
+  "name": "rootModel",
+  "matrix": {
+   "elements": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  "position": {
+   "elements": [
+    0,
+    0
+   ]
+  },
+  "anchorshift": {
+   "elements": [
+    0,
+    0
+   ]
+  },
+  "scale": {
+   "elements": [
+    1,
+    1
+   ]
+  },
+  "rotation": 0,
+  "objectVertices": [],
+  "attributes": {
+   "fill": "#9ECFFF",
+   "opacity": 1,
+   "stroke": "#000000",
+   "linewidth": 2
+  },
+  "viewClass": "AView2D"
+ },
+ "_name": "rootModel",
+ "_children": {
+  "5be5e00b-0e33-4a04-84b3-60cf0d8765d9": {
+   "_AObjectClass": "AAnimatedModelGroup",
+   "_uid": "5be5e00b-0e33-4a04-84b3-60cf0d8765d9",
+   "_tempState": {},
+   "_modelProperties": {
+    "name": "5be5e",
+    "matrix": {
+     "elements": [
+      1,
+      0,
+      117,
+      0,
+      1,
+      -65,
+      0,
+      0,
+      1
+     ]
+    },
+    "position": {
+     "elements": [
+      404.50000000000057,
+      115.00000000000216
+     ]
+    },
+    "anchorshift": {
+     "elements": [
+      -287.50000000000057,
+      -180.00000000000216
+     ]
+    },
+    "scale": {
+     "elements": [
+      1,
+      1
+     ]
+    },
+    "rotation": 0,
+    "objectVertices": [],
+    "attributes": {
+     "fill": "#9ECFFF",
+     "opacity": 1,
+     "stroke": "#000000",
+     "linewidth": 2
+    },
+    "viewClass": "AView2D"
+   },
+   "_name": "5be5e",
+   "_children": {
+    "c9ef0dd8-4828-4e63-b7fc-c365f96d37c7": {
+     "_AObjectClass": "AAnimatedModelGroup",
+     "_uid": "c9ef0dd8-4828-4e63-b7fc-c365f96d37c7",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "Cloud1",
+      "matrix": {
+       "elements": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        1,
+        1
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [],
+      "attributes": {
+       "fill": "#9ECFFF",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 2,
+       "collapsedInTreeView": true
+      }
+     },
+     "_name": "Cloud1",
+     "_children": {
+      "1c384ede-2a76-40c7-96fb-81ac80b506c7": {
+       "_AObjectClass": "AAnimatedModel",
+       "_uid": "1c384ede-2a76-40c7-96fb-81ac80b506c7",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "1c384",
+        "matrix": {
+         "elements": [
+          135.0000000000002,
+          0,
+          286.4999999999996,
+          0,
+          99.00000000000163,
+          129.50000000000057,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          286.4999999999996,
+          129.50000000000057
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          135.0000000000002,
+          99.00000000000163
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [
+         {
+          "elements": [
+           -0.033333333333333645,
+           -0.3585858585858483
+          ]
+         },
+         {
+          "elements": [
+           -0.18888888888888092,
+           -0.46969696969697106
+          ]
+         },
+         {
+          "elements": [
+           -0.3074074074074068,
+           -0.4191919191919277
+          ]
+         },
+         {
+          "elements": [
+           -0.43333333333332974,
+           -0.30808080808080684
+          ]
+         },
+         {
+          "elements": [
+           -0.27777777777777424,
+           -0.12626262626264068
+          ]
+         },
+         {
+          "elements": [
+           -0.3148148148148146,
+           -0.19696969696971026
+          ]
+         },
+         {
+          "elements": [
+           -0.3592592592592589,
+           -0.20707070707071876
+          ]
+         },
+         {
+          "elements": [
+           -0.4481481481481405,
+           -0.13636363636364407
+          ]
+         },
+         {
+          "elements": [
+           -0.4851851851851843,
+           -0.02525252525253995
+          ]
+         },
+         {
+          "elements": [
+           -0.5,
+           0.11616161616161408
+          ]
+         },
+         {
+          "elements": [
+           -0.4703703703703639,
+           0.21717171717170616
+          ]
+         },
+         {
+          "elements": [
+           -0.3148148148148165,
+           0.20707070707069622
+          ]
+         },
+         {
+          "elements": [
+           -0.41111111111111526,
+           0.19696969696969027
+          ]
+         },
+         {
+          "elements": [
+           -0.4185185185185189,
+           0.297979797979785
+          ]
+         },
+         {
+          "elements": [
+           -0.3592592592592579,
+           0.4292929292929096
+          ]
+         },
+         {
+          "elements": [
+           -0.2185185185185257,
+           0.439393939393939
+          ]
+         },
+         {
+          "elements": [
+           -0.10740740740740702,
+           0.2979797979797828
+          ]
+         },
+         {
+          "elements": [
+           -0.14444444444444066,
+           0.37878787878785874
+          ]
+         },
+         {
+          "elements": [
+           0.04814814814814381,
+           0.4090909090909092
+          ]
+         },
+         {
+          "elements": [
+           0.16666666666666954,
+           0.23737373737372025
+          ]
+         },
+         {
+          "elements": [
+           0.12962962962962438,
+           0.33838383838382474
+          ]
+         },
+         {
+          "elements": [
+           0.35925925925926255,
+           0.31818181818180463
+          ]
+         },
+         {
+          "elements": [
+           0.5074074074074071,
+           0.24747474747473996
+          ]
+         },
+         {
+          "elements": [
+           0.5,
+           0.11616161616161053
+          ]
+         },
+         {
+          "elements": [
+           0.4259259259259281,
+           -0.055555555555556
+          ]
+         },
+         {
+          "elements": [
+           0.27037037037037204,
+           0.08585858585858315
+          ]
+         },
+         {
+          "elements": [
+           0.49259259259259425,
+           -0.12626262626263424
+          ]
+         },
+         {
+          "elements": [
+           0.4703703703703721,
+           -0.3080808080808086
+          ]
+         },
+         {
+          "elements": [
+           0.40370370370370573,
+           -0.3383838383838445
+          ]
+         },
+         {
+          "elements": [
+           0.38888888888889045,
+           -0.20707070707071576
+          ]
+         },
+         {
+          "elements": [
+           0.3962962962962984,
+           -0.5
+          ]
+         },
+         {
+          "elements": [
+           0.1888888888888899,
+           -0.5101010101010072
+          ]
+         },
+         {
+          "elements": [
+           0.10000000000000271,
+           -0.4494949494949477
+          ]
+         },
+         {
+          "elements": [
+           -0.0037037037037015424,
+           -0.4898989898989873
+          ]
+         },
+         {
+          "elements": [
+           -0.14444444444444132,
+           -0.4393939393939378
+          ]
+         }
+        ],
+        "attributes": {
+         "fill": "rgba(208,208,208,1)",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "1c384",
+       "_children": {},
+       "_objectSpaceCorners": [
+        {
+         "elements": [
+          -0.5,
+          -0.5101010101010072
+         ]
+        },
+        {
+         "elements": [
+          0.5074074074074071,
+          -0.5101010101010072
+         ]
+        },
+        {
+         "elements": [
+          0.5074074074074071,
+          0.439393939393939
+         ]
+        },
+        {
+         "elements": [
+          -0.5,
+          0.439393939393939
+         ]
+        }
+       ],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "837bce21-a12a-491a-b3b2-efcc3097adc1",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "4d54cc8e-aea2-4c2b-ba62-46bd217da67c",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "8b7a361a-1075-4bf4-bd3b-f05b35c09c4b",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "d9807da7-69e0-4763-b3ab-a4b14c1888b6",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      }
+     },
+     "_objectSpaceCorners": [],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "ade38359-bf66-40c6-9b93-9b7473ef9be2",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "0250ce1e-1e1b-4640-b527-42e8bee31a75",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "9ef5ffc2-d121-4171-bf69-4a96532bccdc",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "e5d296f1-c4ae-4a5a-a857-590c4885a721",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    },
+    "22ba6491-23bd-4656-b369-15022dd84707": {
+     "_AObjectClass": "AAnimatedModelGroup",
+     "_uid": "22ba6491-23bd-4656-b369-15022dd84707",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "Cloud2",
+      "matrix": {
+       "elements": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        1,
+        1
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [],
+      "attributes": {
+       "fill": "#9ECFFF",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 2,
+       "collapsedInTreeView": true
+      }
+     },
+     "_name": "Cloud2",
+     "_children": {
+      "bc76cdf1-ad76-4a53-b852-25b866a7d745": {
+       "_AObjectClass": "AAnimatedModel",
+       "_uid": "bc76cdf1-ad76-4a53-b852-25b866a7d745",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "bc76c",
+        "matrix": {
+         "elements": [
+          164.00000000000134,
+          0,
+          394.99999999999926,
+          0,
+          99.99999999999967,
+          149.99999999999986,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          394.9999999999993,
+          149.99999999999986
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          -4.440892098500627e-16,
+          1.1102230246251568e-16
+         ]
+        },
+        "scale": {
+         "elements": [
+          164.00000000000134,
+          99.99999999999967
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [
+         {
+          "elements": [
+           -0.03658536585362925,
+           -0.369999999999761
+          ]
+         },
+         {
+          "elements": [
+           -0.16463414634147486,
+           -0.29999999999993116
+          ]
+         },
+         {
+          "elements": [
+           -0.10975609756098056,
+           -0.18999999999999556
+          ]
+         },
+         {
+          "elements": [
+           -0.18902439024390766,
+           -0.34999999999983317
+          ]
+         },
+         {
+          "elements": [
+           -0.317073170731716,
+           -0.35999999999984394
+          ]
+         },
+         {
+          "elements": [
+           -0.4878048780487857,
+           -0.09999999999999828
+          ]
+         },
+         {
+          "elements": [
+           -0.37804878048781265,
+           -0.0299999999999988
+          ]
+         },
+         {
+          "elements": [
+           -0.43292682926829584,
+           0.24000000000009264
+          ]
+         },
+         {
+          "elements": [
+           -0.26219512195123457,
+           0.09000000000020135
+          ]
+         },
+         {
+          "elements": [
+           -0.3475609756097659,
+           0.1600000000000826
+          ]
+         },
+         {
+          "elements": [
+           -0.28048780487805874,
+           0.47000000000000486
+          ]
+         },
+         {
+          "elements": [
+           -0.12804878048781584,
+           0.42000000000000215
+          ]
+         },
+         {
+          "elements": [
+           -0.20121951219510098,
+           0.24000000000000027
+          ]
+         },
+         {
+          "elements": [
+           -0.060975609756079394,
+           0.48000000000000376
+          ]
+         },
+         {
+          "elements": [
+           0.23780487804878753,
+           0.49000000000000266
+          ]
+         },
+         {
+          "elements": [
+           0.31707317073171687,
+           0.3100000000000032
+          ]
+         },
+         {
+          "elements": [
+           0.2500000000000146,
+           0.2900000000000074
+          ]
+         },
+         {
+          "elements": [
+           0.4085365853658537,
+           0.2600000000000127
+          ]
+         },
+         {
+          "elements": [
+           0.4512195121951289,
+           0.08000000000022799
+          ]
+         },
+         {
+          "elements": [
+           0.3780487804878069,
+           -0.049999999999998254
+          ]
+         },
+         {
+          "elements": [
+           0.31097560975610156,
+           -0.3499999999999898
+          ]
+         },
+         {
+          "elements": [
+           0.20731707317073272,
+           -0.2399999999999784
+          ]
+         },
+         {
+          "elements": [
+           0.28658536585366073,
+           -0.31999999999971834
+          ]
+         },
+         {
+          "elements": [
+           3.996802888650563e-15,
+           -0.3099999999999478
+          ]
+         },
+         {
+          "elements": [
+           0.05487804878049117,
+           -0.19999999999997314
+          ]
+         }
+        ],
+        "attributes": {
+         "fill": "rgba(157,157,157,1)",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "bc76c",
+       "_children": {},
+       "_objectSpaceCorners": [
+        {
+         "elements": [
+          -0.4878048780487857,
+          -0.369999999999761
+         ]
+        },
+        {
+         "elements": [
+          0.4512195121951289,
+          -0.369999999999761
+         ]
+        },
+        {
+         "elements": [
+          0.4512195121951289,
+          0.49000000000000266
+         ]
+        },
+        {
+         "elements": [
+          -0.4878048780487857,
+          0.49000000000000266
+         ]
+        }
+       ],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "5efae0e6-60f2-47be-ac44-6bb60def6f53",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "d64efbaa-854d-48bb-bf89-4c0d3434ae15",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "c15081e2-44a6-49f8-8c70-2f131c17b6d3",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "31890189-7ef8-4fde-9594-d1b38e0e60b0",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      }
+     },
+     "_objectSpaceCorners": [],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "136e5c23-9eff-4fe4-983b-23e4241e2b6a",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "356eb18d-0beb-44c5-b833-aac92e6c8213",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "20846da9-c953-46ba-b5a2-63c5f943c5e8",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "a4431194-64c8-40de-b6d5-b10da9524289",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    },
+    "1cd44481-bfaa-4c4b-8f3c-43cf4a4a19f1": {
+     "_AObjectClass": "AAnimatedModelGroup",
+     "_uid": "1cd44481-bfaa-4c4b-8f3c-43cf4a4a19f1",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "DetailedCloud",
+      "matrix": {
+       "elements": [
+        1,
+        0,
+        157,
+        0,
+        1,
+        -114,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        157,
+        -114
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        1,
+        1
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [],
+      "attributes": {
+       "fill": "#9ECFFF",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 2,
+       "collapsedInTreeView": true
+      },
+      "viewClass": "AView2D"
+     },
+     "_name": "DetailedCloud",
+     "_children": {
+      "2d44bc3c-b902-463c-9286-97b9f140daec": {
+       "_AObjectClass": "AAnimatedModel",
+       "_uid": "2d44bc3c-b902-463c-9286-97b9f140daec",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "2d44b",
+        "matrix": {
+         "elements": [
+          238.00000000000102,
+          0,
+          133.00000000000054,
+          0,
+          124.99999999999794,
+          286.5000000000018,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          133.00000000000057,
+          286.50000000000176
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          -1.110223024625157e-16,
+          4.440892098500628e-16
+         ]
+        },
+        "scale": {
+         "elements": [
+          238.00000000000102,
+          124.99999999999794
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [
+         {
+          "elements": [
+           -0.2941176470588195,
+           0.38000000000001843
+          ]
+         },
+         {
+          "elements": [
+           -0.20588235294117752,
+           0.4599999999999963
+          ]
+         },
+         {
+          "elements": [
+           -0.1134453781512609,
+           0.4280000000000056
+          ]
+         },
+         {
+          "elements": [
+           -0.07983193277311061,
+           0.4199999999999976
+          ]
+         },
+         {
+          "elements": [
+           -0.012605042016806452,
+           0.4120000000000038
+          ]
+         },
+         {
+          "elements": [
+           0.0462184873949577,
+           0.4999999999999968
+          ]
+         },
+         {
+          "elements": [
+           0.15546218487394478,
+           0.5000000000000017
+          ]
+         },
+         {
+          "elements": [
+           0.23949579831932305,
+           0.46799999999999187
+          ]
+         },
+         {
+          "elements": [
+           0.28571428571428464,
+           0.42799999999999405
+          ]
+         },
+         {
+          "elements": [
+           0.3487394957983159,
+           0.3560000000000029
+          ]
+         },
+         {
+          "elements": [
+           0.40756302521008037,
+           0.34799999999998915
+          ]
+         },
+         {
+          "elements": [
+           0.44957983193276885,
+           0.34000000000001623
+          ]
+         },
+         {
+          "elements": [
+           0.4579831932773113,
+           0.2680000000000122
+          ]
+         },
+         {
+          "elements": [
+           0.39915966386554214,
+           0.15600000000000366
+          ]
+         },
+         {
+          "elements": [
+           0.3571428571428535,
+           0.1400000000000121
+          ]
+         },
+         {
+          "elements": [
+           0.29831932773109276,
+           0.1720000000000099
+          ]
+         },
+         {
+          "elements": [
+           0.3277310924369758,
+           0.14000000000001742
+          ]
+         },
+         {
+          "elements": [
+           0.3193277310924359,
+           0.020000000000015557
+          ]
+         },
+         {
+          "elements": [
+           0.29411764705881366,
+           -0.05199999999995562
+          ]
+         },
+         {
+          "elements": [
+           0.20168067226890235,
+           -0.03599999999998537
+          ]
+         },
+         {
+          "elements": [
+           0.14705882352940844,
+           -0.011999999999960927
+          ]
+         },
+         {
+          "elements": [
+           0.23529411764705416,
+           -0.06799999999998317
+          ]
+         },
+         {
+          "elements": [
+           0.1806722689075577,
+           -0.26000000000001217
+          ]
+         },
+         {
+          "elements": [
+           0.12184873949579608,
+           -0.3639999999999978
+          ]
+         },
+         {
+          "elements": [
+           0.03361344537815091,
+           -0.37999999999999445
+          ]
+         },
+         {
+          "elements": [
+           -0.037815126050417695,
+           -0.3560000000000058
+          ]
+         },
+         {
+          "elements": [
+           -0.18487394957983214,
+           -0.12400000000000319
+          ]
+         },
+         {
+          "elements": [
+           -0.13445378151260687,
+           -0.10800000000001028
+          ]
+         },
+         {
+          "elements": [
+           -0.26470588235294235,
+           -0.14000000000001075
+          ]
+         },
+         {
+          "elements": [
+           -0.3781512605042024,
+           0.09200000000000584
+          ]
+         },
+         {
+          "elements": [
+           -0.2689075630252114,
+           0.14800000000000677
+          ]
+         },
+         {
+          "elements": [
+           -0.31512605042016967,
+           0.11600000000000896
+          ]
+         },
+         {
+          "elements": [
+           -0.4537815126050424,
+           0.1319999999999983
+          ]
+         },
+         {
+          "elements": [
+           -0.4789915966386556,
+           0.31599999999999623
+          ]
+         },
+         {
+          "elements": [
+           -0.39495798319327785,
+           0.4039999999999927
+          ]
+         },
+         {
+          "elements": [
+           -0.29411764705882454,
+           0.4119999999999927
+          ]
+         }
+        ],
+        "attributes": {
+         "fill": "rgba(188,188,188,1)",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "2d44b",
+       "_children": {},
+       "_objectSpaceCorners": [
+        {
+         "elements": [
+          -0.4789915966386556,
+          -0.37999999999999445
+         ]
+        },
+        {
+         "elements": [
+          0.4579831932773113,
+          -0.37999999999999445
+         ]
+        },
+        {
+         "elements": [
+          0.4579831932773113,
+          0.5000000000000017
+         ]
+        },
+        {
+         "elements": [
+          -0.4789915966386556,
+          0.5000000000000017
+         ]
+        }
+       ],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "74d221c6-cf72-4fa2-a65e-5e0cb893704b",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "12898bd0-3a72-4ab5-bfe9-0fedb586b9ee",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "b328655d-2f77-44d6-9a1b-beb12b42d45d",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "0b227e28-ff32-4267-9cf8-fb9c834b9453",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      },
+      "14150889-1f9d-49d5-95a6-7638e43c7da6": {
+       "_AObjectClass": "AAnimatedModelGroup",
+       "_uid": "14150889-1f9d-49d5-95a6-7638e43c7da6",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "14150",
+        "matrix": {
+         "elements": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          1,
+          1
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [],
+        "attributes": {
+         "fill": "#9ECFFF",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "14150",
+       "_children": {
+        "584061ac-463a-40ad-8fb2-ed4a3f9da641": {
+         "_AObjectClass": "AAnimatedModel",
+         "_uid": "584061ac-463a-40ad-8fb2-ed4a3f9da641",
+         "_tempState": {},
+         "_modelProperties": {
+          "name": "58406",
+          "matrix": {
+           "elements": [
+            58.000000000000945,
+            0,
+            132.0000000000005,
+            0,
+            19.999999999998625,
+            287.9999999999989,
+            0,
+            0,
+            0.9999999999999996
+           ]
+          },
+          "position": {
+           "elements": [
+            132.00000000000057,
+            287.99999999999903
+           ]
+          },
+          "anchorshift": {
+           "elements": [
+            0,
+            3.5527136788005025e-15
+           ]
+          },
+          "scale": {
+           "elements": [
+            58.000000000000945,
+            19.999999999998625
+           ]
+          },
+          "rotation": 0,
+          "objectVertices": [
+           {
+            "elements": [
+             -0.5,
+             0.1999999999999833
+            ]
+           },
+           {
+            "elements": [
+             -0.4655172413793103,
+             0.04999999999998295
+            ]
+           },
+           {
+            "elements": [
+             -0.3103448275862008,
+             -0.34999999999999254
+            ]
+           },
+           {
+            "elements": [
+             -0.17241379310344707,
+             -0.45000000000000817
+            ]
+           },
+           {
+            "elements": [
+             -0.10344827586207032,
+             -0.5
+            ]
+           },
+           {
+            "elements": [
+             -0.03448275862068915,
+             -0.3000000000000025
+            ]
+           },
+           {
+            "elements": [
+             -0.03448275862068915,
+             -0.14999999999999858
+            ]
+           },
+           {
+            "elements": [
+             -3.219646771412952e-15,
+             5.329070518200752e-15
+            ]
+           },
+           {
+            "elements": [
+             0.05172413793103544,
+             0.24999999999999645
+            ]
+           },
+           {
+            "elements": [
+             0.05172413793103544,
+             0.24999999999999645
+            ]
+           },
+           {
+            "elements": [
+             0.05172413793103544,
+             0.24999999999999645
+            ]
+           },
+           {
+            "elements": [
+             0.155172413793099,
+             -0.10000000000000675
+            ]
+           },
+           {
+            "elements": [
+             0.27586206896550464,
+             -0.1500000000000128
+            ]
+           },
+           {
+            "elements": [
+             0.3275862068965375,
+             -0.150000000000027
+            ]
+           },
+           {
+            "elements": [
+             0.4310344827586046,
+             5.329070518200752e-15
+            ]
+           },
+           {
+            "elements": [
+             0.4827586206896535,
+             0.14999999999997016
+            ]
+           },
+           {
+            "elements": [
+             0.5,
+             0.29999999999999005
+            ]
+           },
+           {
+            "elements": [
+             0.4999999999999951,
+             0.5
+            ]
+           },
+           {
+            "elements": [
+             0.4999999999999951,
+             0.5
+            ]
+           },
+           {
+            "elements": [
+             0.4827586206896486,
+             0.24999999999998224
+            ]
+           },
+           {
+            "elements": [
+             0.4310344827586046,
+             0.09999999999999254
+            ]
+           },
+           {
+            "elements": [
+             0.34482758620688403,
+             -0.05000000000000071
+            ]
+           },
+           {
+            "elements": [
+             0.10344827586205989,
+             -0.0499999999999865
+            ]
+           },
+           {
+            "elements": [
+             0.017241379310337968,
+             0.05000000000000071
+            ]
+           },
+           {
+            "elements": [
+             -7.216449660063513e-15,
+             0.10000000000001741
+            ]
+           },
+           {
+            "elements": [
+             -0.06896551724138618,
+             0.3000000000000327
+            ]
+           },
+           {
+            "elements": [
+             -0.08620689655173047,
+             5.329070518200752e-15
+            ]
+           },
+           {
+            "elements": [
+             -0.08620689655173047,
+             -0.24999999999999645
+            ]
+           },
+           {
+            "elements": [
+             -0.1379310344827638,
+             -0.3000000000000025
+            ]
+           },
+           {
+            "elements": [
+             -0.2586206896551743,
+             -0.3000000000000025
+            ]
+           },
+           {
+            "elements": [
+             -0.2931034482758645,
+             -0.1999999999999904
+            ]
+           },
+           {
+            "elements": [
+             -0.36206896551724477,
+             4.263256414560601e-14
+            ]
+           },
+           {
+            "elements": [
+             -0.3620689655172452,
+             0.05000000000004867
+            ]
+           }
+          ],
+          "attributes": {
+           "fill": "rgba(155,155,155,0.38)",
+           "opacity": 1,
+           "stroke": "#000000",
+           "linewidth": 1.4
+          },
+          "viewClass": "AView2D"
+         },
+         "_name": "58406",
+         "_children": {},
+         "_objectSpaceCorners": [
+          {
+           "elements": [
+            -0.5,
+            -0.5
+           ]
+          },
+          {
+           "elements": [
+            0.5,
+            -0.5
+           ]
+          },
+          {
+           "elements": [
+            0.5,
+            0.5
+           ]
+          },
+          {
+           "elements": [
+            -0.5,
+            0.5
+           ]
+          }
+         ],
+         "_keyframeTracks": {
+          "position": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "e9afbafc-0865-48c8-a3fb-c46f9faa6c06",
+           "_tempState": {},
+           "_name": "position",
+           "_keyframes": []
+          },
+          "scale": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "951beeab-5932-490e-b74d-85f8d9764f69",
+           "_tempState": {},
+           "_name": "scale",
+           "_keyframes": []
+          },
+          "rotation": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "ef77ac06-23e9-47e7-9ae8-9a2e3068b176",
+           "_tempState": {},
+           "_name": "rotation",
+           "_keyframes": []
+          },
+          "anchorshift": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "51f479a6-a007-49fa-bef2-c12bd224ff5d",
+           "_tempState": {},
+           "_name": "anchorshift",
+           "_keyframes": []
+          }
+         },
+         "_currentDisplayTime": 0
+        }
+       },
+       "_objectSpaceCorners": [],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "3929e40a-a4cd-4569-b7fc-9a41f0a70dbb",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "669feba6-8425-4f72-887e-6a4eeb555fbf",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "f2f2d1cb-311d-4cd0-9e13-d6771a1616b5",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "a19679e2-59dc-4a72-baaa-eacdbdbb6baa",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      },
+      "9769b628-93ae-4680-9250-bde682a42b46": {
+       "_AObjectClass": "AAnimatedModelGroup",
+       "_uid": "9769b628-93ae-4680-9250-bde682a42b46",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "9769b",
+        "matrix": {
+         "elements": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          1,
+          1
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [],
+        "attributes": {
+         "fill": "#9ECFFF",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "9769b",
+       "_children": {
+        "b770e976-f86b-4a73-9a6d-2661dfe2ab8b": {
+         "_AObjectClass": "AAnimatedModel",
+         "_uid": "b770e976-f86b-4a73-9a6d-2661dfe2ab8b",
+         "_tempState": {},
+         "_modelProperties": {
+          "name": "b770e",
+          "matrix": {
+           "elements": [
+            38.00000000000003,
+            0,
+            170.99999999999994,
+            0,
+            17.00000000000144,
+            312.49999999999915,
+            0,
+            0,
+            0.9999999999999997
+           ]
+          },
+          "position": {
+           "elements": [
+            171,
+            312.49999999999926
+           ]
+          },
+          "anchorshift": {
+           "elements": [
+            8.881784197001256e-16,
+            3.5527136788005025e-15
+           ]
+          },
+          "scale": {
+           "elements": [
+            38.00000000000003,
+            17.00000000000144
+           ]
+          },
+          "rotation": 0,
+          "objectVertices": [
+           {
+            "elements": [
+             -0.3157894736842516,
+             0.44117647058815024
+            ]
+           },
+           {
+            "elements": [
+             -0.05263157894740318,
+             0.49999999999995737
+            ]
+           },
+           {
+            "elements": [
+             -0.026315789473725426,
+             0.49999999999995737
+            ]
+           },
+           {
+            "elements": [
+             -0.05263157894740318,
+             0.20588235294111357
+            ]
+           },
+           {
+            "elements": [
+             0.026315789473654747,
+             -0.32352941176468164
+            ]
+           },
+           {
+            "elements": [
+             0.13157894736838727,
+             -0.44117647058824616
+            ]
+           },
+           {
+            "elements": [
+             0.2105263157894277,
+             -0.5
+            ]
+           },
+           {
+            "elements": [
+             0.2368421052631246,
+             -0.5
+            ]
+           },
+           {
+            "elements": [
+             0.3421052631578444,
+             -0.4411764705881893
+            ]
+           },
+           {
+            "elements": [
+             0.4736842105262809,
+             -0.2647058823529669
+            ]
+           },
+           {
+            "elements": [
+             0.4999999999999571,
+             -0.029411764705926657
+            ]
+           },
+           {
+            "elements": [
+             0.49999999999996025,
+             0.1470588235293988
+            ]
+           },
+           {
+            "elements": [
+             0.49999999999996186,
+             0.3235294117646639
+            ]
+           },
+           {
+            "elements": [
+             0.3421052631578444,
+             0.49999999999995737
+            ]
+           },
+           {
+            "elements": [
+             0.1842105263157603,
+             0.44117647058815024
+            ]
+           },
+           {
+            "elements": [
+             0.07894736842102379,
+             0.2647058823529278
+            ]
+           },
+           {
+            "elements": [
+             0.02631578947365634,
+             -0.029411764705869814
+            ]
+           },
+           {
+            "elements": [
+             0.0789473684210365,
+             -0.14705882352938815
+            ]
+           },
+           {
+            "elements": [
+             0.15789473684209127,
+             -0.14705882352938815
+            ]
+           },
+           {
+            "elements": [
+             0.2894736842105079,
+             -0.08823529411763076
+            ]
+           },
+           {
+            "elements": [
+             0.2894736842105079,
+             0.08823529411765563
+            ]
+           },
+           {
+            "elements": [
+             0.2894736842105079,
+             0.08823529411765563
+            ]
+           },
+           {
+            "elements": [
+             0.263157894736819,
+             -0.029411764705869814
+            ]
+           },
+           {
+            "elements": [
+             0.13157894736840237,
+             -0.08823529411763076
+            ]
+           },
+           {
+            "elements": [
+             0.13157894736840398,
+             -0.029411764705869814
+            ]
+           },
+           {
+            "elements": [
+             0.18421052631578255,
+             0.20588235294116686
+            ]
+           },
+           {
+            "elements": [
+             0.2894736842105103,
+             0.2647058823529278
+            ]
+           },
+           {
+            "elements": [
+             0.47368421052630394,
+             0.2647058823529278
+            ]
+           },
+           {
+            "elements": [
+             0.5,
+             0.14705882352940947
+            ]
+           },
+           {
+            "elements": [
+             0.447368421052623,
+             -0.08823529411763076
+            ]
+           },
+           {
+            "elements": [
+             0.3157894736842088,
+             -0.32352941176466743
+            ]
+           },
+           {
+            "elements": [
+             0.0526315789473643,
+             -0.4411764705881893
+            ]
+           },
+           {
+            "elements": [
+             0.026315789473680972,
+             -0.32352941176466743
+            ]
+           },
+           {
+            "elements": [
+             -0.052631578947368224,
+             0.1470588235294521
+            ]
+           },
+           {
+            "elements": [
+             -0.10526315789473568,
+             0.3823529411764852
+            ]
+           },
+           {
+            "elements": [
+             -0.18421052631578888,
+             0.5
+            ]
+           },
+           {
+            "elements": [
+             -0.39473684210526344,
+             0.44117647058823906
+            ]
+           },
+           {
+            "elements": [
+             -0.49999999999999994,
+             0.3823529411764781
+            ]
+           }
+          ],
+          "attributes": {
+           "fill": "rgba(155,155,155,0.38)",
+           "opacity": 1,
+           "stroke": "#000000",
+           "linewidth": 1.4
+          },
+          "viewClass": "AView2D"
+         },
+         "_name": "b770e",
+         "_children": {},
+         "_objectSpaceCorners": [
+          {
+           "elements": [
+            -0.5,
+            -0.5
+           ]
+          },
+          {
+           "elements": [
+            0.5,
+            -0.5
+           ]
+          },
+          {
+           "elements": [
+            0.5,
+            0.5
+           ]
+          },
+          {
+           "elements": [
+            -0.5,
+            0.5
+           ]
+          }
+         ],
+         "_keyframeTracks": {
+          "position": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "7b132958-c243-419d-99c2-01417aa7b79a",
+           "_tempState": {},
+           "_name": "position",
+           "_keyframes": []
+          },
+          "scale": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "2cf64c01-9174-407b-bd0e-f59222eb55f3",
+           "_tempState": {},
+           "_name": "scale",
+           "_keyframes": []
+          },
+          "rotation": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "392452fc-429d-461f-a520-9be09636db53",
+           "_tempState": {},
+           "_name": "rotation",
+           "_keyframes": []
+          },
+          "anchorshift": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "5ad0156e-b130-48e9-a696-31bc4572b1ff",
+           "_tempState": {},
+           "_name": "anchorshift",
+           "_keyframes": []
+          }
+         },
+         "_currentDisplayTime": 0
+        }
+       },
+       "_objectSpaceCorners": [],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "98a23314-1713-4364-b8ca-a50f20a9fa8a",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "7cbc67f5-e1e6-426d-a16a-533033d1d397",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "9b411b54-2b6b-47bd-9682-91d7916ffb66",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "ef4a97b9-4acf-42d1-808b-09bcb021d445",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      },
+      "8ce8ecdb-bb50-4dd4-9e4b-71bb97eb83f1": {
+       "_AObjectClass": "AAnimatedModelGroup",
+       "_uid": "8ce8ecdb-bb50-4dd4-9e4b-71bb97eb83f1",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "8ce8e",
+        "matrix": {
+         "elements": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          1,
+          1
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [],
+        "attributes": {
+         "fill": "#9ECFFF",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "8ce8e",
+       "_children": {
+        "8b609932-6218-4b88-8117-d4779968e3f5": {
+         "_AObjectClass": "AAnimatedModel",
+         "_uid": "8b609932-6218-4b88-8117-d4779968e3f5",
+         "_tempState": {},
+         "_modelProperties": {
+          "name": "8b609",
+          "matrix": {
+           "elements": [
+            59.99999999999977,
+            0,
+            94.00000000000031,
+            0,
+            23.999999999999655,
+            312.9999999999997,
+            0,
+            0,
+            0.9999999999999997
+           ]
+          },
+          "position": {
+           "elements": [
+            94.00000000000034,
+            312.99999999999983
+           ]
+          },
+          "anchorshift": {
+           "elements": [
+            -2.220446049250314e-16,
+            0
+           ]
+          },
+          "scale": {
+           "elements": [
+            59.99999999999977,
+            23.999999999999655
+           ]
+          },
+          "rotation": 0,
+          "objectVertices": [
+           {
+            "elements": [
+             -0.5,
+             0.24999999999993738
+            ]
+           },
+           {
+            "elements": [
+             -0.3166666666666669,
+             0.29166666666662305
+            ]
+           },
+           {
+            "elements": [
+             -0.24999999999999867,
+             0.1666666666666282
+            ]
+           },
+           {
+            "elements": [
+             -0.2000000000000004,
+             -0.041666666666702566
+            ]
+           },
+           {
+            "elements": [
+             -0.08333333333333992,
+             -0.37500000000001754
+            ]
+           },
+           {
+            "elements": [
+             -0.05000000000000515,
+             -0.3749999999999891
+            ]
+           },
+           {
+            "elements": [
+             0.16666666666666008,
+             -0.5
+            ]
+           },
+           {
+            "elements": [
+             0.36666666666667336,
+             -0.4166666666666535
+            ]
+           },
+           {
+            "elements": [
+             0.4333333333333358,
+             -0.08333333333334207
+            ]
+           },
+           {
+            "elements": [
+             0.48333333333333606,
+             0.20833333333333873
+            ]
+           },
+           {
+            "elements": [
+             0.48333333333333606,
+             0.416666666666689
+            ]
+           },
+           {
+            "elements": [
+             0.4333333333333367,
+             0.5
+            ]
+           },
+           {
+            "elements": [
+             0.2666666666666744,
+             0.3750000000000122
+            ]
+           },
+           {
+            "elements": [
+             0.2666666666666706,
+             0.20833333333333873
+            ]
+           },
+           {
+            "elements": [
+             0.2833333333333401,
+             0.20833333333333873
+            ]
+           },
+           {
+            "elements": [
+             0.4166666666666683,
+             0.416666666666689
+            ]
+           },
+           {
+            "elements": [
+             0.5,
+             0.4583333333333374
+            ]
+           },
+           {
+            "elements": [
+             0.48333333333333117,
+             0.20833333333334583
+            ]
+           },
+           {
+            "elements": [
+             0.4166666666666645,
+             0.04166666666669546
+            ]
+           },
+           {
+            "elements": [
+             0.3666666666666636,
+             -0.08333333333333497
+            ]
+           },
+           {
+            "elements": [
+             0.3166666666666633,
+             -0.2499999999999729
+            ]
+           },
+           {
+            "elements": [
+             0.2333333333333334,
+             -0.41666666666664637
+            ]
+           },
+           {
+            "elements": [
+             0.033333333333327664,
+             -0.41666666666664637
+            ]
+           },
+           {
+            "elements": [
+             -0.050000000000006484,
+             -0.33333333333331233
+            ]
+           },
+           {
+            "elements": [
+             -0.13333333333333885,
+             -0.041666666666659934
+            ]
+           },
+           {
+            "elements": [
+             -0.15000000000000457,
+             0.12500000000002065
+            ]
+           },
+           {
+            "elements": [
+             -0.2833333333333399,
+             0.29166666666667995
+            ]
+           },
+           {
+            "elements": [
+             -0.41666666666667385,
+             0.3333333333333461
+            ]
+           }
+          ],
+          "attributes": {
+           "fill": "rgba(155,155,155,0.38)",
+           "opacity": 1,
+           "stroke": "#000000",
+           "linewidth": 1.6
+          },
+          "viewClass": "AView2D"
+         },
+         "_name": "8b609",
+         "_children": {},
+         "_objectSpaceCorners": [
+          {
+           "elements": [
+            -0.5,
+            -0.5
+           ]
+          },
+          {
+           "elements": [
+            0.5,
+            -0.5
+           ]
+          },
+          {
+           "elements": [
+            0.5,
+            0.5
+           ]
+          },
+          {
+           "elements": [
+            -0.5,
+            0.5
+           ]
+          }
+         ],
+         "_keyframeTracks": {
+          "position": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "34f1f05d-700b-408c-8e9e-be5bce9863c7",
+           "_tempState": {},
+           "_name": "position",
+           "_keyframes": []
+          },
+          "scale": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "db7885ac-506e-4aad-b613-31fc5fe7077c",
+           "_tempState": {},
+           "_name": "scale",
+           "_keyframes": []
+          },
+          "rotation": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "388f5017-c4de-4aef-b742-ea680eb38808",
+           "_tempState": {},
+           "_name": "rotation",
+           "_keyframes": []
+          },
+          "anchorshift": {
+           "_AObjectClass": "AKeyframeTrack",
+           "_uid": "0684aacf-c911-4201-9dfa-24fc7013dbbc",
+           "_tempState": {},
+           "_name": "anchorshift",
+           "_keyframes": []
+          }
+         },
+         "_currentDisplayTime": 0
+        }
+       },
+       "_objectSpaceCorners": [],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "49e426e0-bcfe-4b55-acaf-15c569dbffb8",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "4eaa188a-45d8-43a3-a2cc-563ac4deb6f3",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "2c38a1d2-2729-4fbf-9dac-26545513d92b",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "74c70499-2cf4-439b-a967-4a8d7c7af705",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      }
+     },
+     "_objectSpaceCorners": [],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "c419cded-dd7c-4ddf-869c-6849c08edd12",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "aea95178-b983-4b38-9949-e0d0855addbc",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "07024b74-73ff-4e3a-ae90-42abd1622dd7",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "0588526c-d076-4c09-8529-dea5f992489a",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    }
+   },
+   "_objectSpaceCorners": [],
+   "_keyframeTracks": {
+    "position": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "58118bff-3046-4832-b86e-9116884795f3",
+     "_tempState": {},
+     "_name": "position",
+     "_keyframes": []
+    },
+    "scale": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "fdfa0c55-fc53-414c-959d-6e18e36206d3",
+     "_tempState": {},
+     "_name": "scale",
+     "_keyframes": []
+    },
+    "rotation": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "da892451-db74-4492-af7d-3c05a71c4fc5",
+     "_tempState": {},
+     "_name": "rotation",
+     "_keyframes": []
+    },
+    "anchorshift": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "5d6f8734-04ab-45cf-a727-762286a273ab",
+     "_tempState": {},
+     "_name": "anchorshift",
+     "_keyframes": []
+    }
+   },
+   "_currentDisplayTime": 0
+  },
+  "c9ef0dd8-4828-4e63-b7fc-c365f96d37c7": {
+   "_AObjectClass": "AAnimatedModelGroup",
+   "_uid": "c9ef0dd8-4828-4e63-b7fc-c365f96d37c7",
+   "_tempState": {},
+   "_modelProperties": {
+    "name": "Cloud1",
+    "matrix": {
+     "elements": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+     ]
+    },
+    "position": {
+     "elements": [
+      0,
+      0
+     ]
+    },
+    "anchorshift": {
+     "elements": [
+      0,
+      0
+     ]
+    },
+    "scale": {
+     "elements": [
+      1,
+      1
+     ]
+    },
+    "rotation": 0,
+    "objectVertices": [],
+    "attributes": {
+     "fill": "#9ECFFF",
+     "opacity": 1,
+     "stroke": "#000000",
+     "linewidth": 2,
+     "collapsedInTreeView": true
+    }
+   },
+   "_name": "Cloud1",
+   "_children": {},
+   "_objectSpaceCorners": [],
+   "_keyframeTracks": {
+    "position": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "ade38359-bf66-40c6-9b93-9b7473ef9be2",
+     "_tempState": {},
+     "_name": "position",
+     "_keyframes": []
+    },
+    "scale": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "0250ce1e-1e1b-4640-b527-42e8bee31a75",
+     "_tempState": {},
+     "_name": "scale",
+     "_keyframes": []
+    },
+    "rotation": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "9ef5ffc2-d121-4171-bf69-4a96532bccdc",
+     "_tempState": {},
+     "_name": "rotation",
+     "_keyframes": []
+    },
+    "anchorshift": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "e5d296f1-c4ae-4a5a-a857-590c4885a721",
+     "_tempState": {},
+     "_name": "anchorshift",
+     "_keyframes": []
+    }
+   },
+   "_currentDisplayTime": 0
+  },
+  "22ba6491-23bd-4656-b369-15022dd84707": {
+   "_AObjectClass": "AAnimatedModelGroup",
+   "_uid": "22ba6491-23bd-4656-b369-15022dd84707",
+   "_tempState": {},
+   "_modelProperties": {
+    "name": "Cloud2",
+    "matrix": {
+     "elements": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+     ]
+    },
+    "position": {
+     "elements": [
+      0,
+      0
+     ]
+    },
+    "anchorshift": {
+     "elements": [
+      0,
+      0
+     ]
+    },
+    "scale": {
+     "elements": [
+      1,
+      1
+     ]
+    },
+    "rotation": 0,
+    "objectVertices": [],
+    "attributes": {
+     "fill": "#9ECFFF",
+     "opacity": 1,
+     "stroke": "#000000",
+     "linewidth": 2,
+     "collapsedInTreeView": true
+    }
+   },
+   "_name": "Cloud2",
+   "_children": {
+    "bc76cdf1-ad76-4a53-b852-25b866a7d745": {
+     "_AObjectClass": "AAnimatedModel",
+     "_uid": "bc76cdf1-ad76-4a53-b852-25b866a7d745",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "bc76c",
+      "matrix": {
+       "elements": [
+        87.54055693534438,
+        6.100304776420971,
+        462.9999999999994,
+        -23.885848982416142,
+        22.357341285895327,
+        147.99999999999986,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        462.9999999999993,
+        147.9999999999999
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        8.881784197001254e-16,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        90.740745479421,
+        23.174650541900824
+       ]
+      },
+      "rotation": -0.26637061435917164,
+      "objectVertices": [
+       {
+        "elements": [
+         -0.03658536585362925,
+         -0.369999999999761
+        ]
+       },
+       {
+        "elements": [
+         -0.16463414634147486,
+         -0.29999999999993116
+        ]
+       },
+       {
+        "elements": [
+         -0.10975609756098056,
+         -0.18999999999999556
+        ]
+       },
+       {
+        "elements": [
+         -0.18902439024390766,
+         -0.34999999999983317
+        ]
+       },
+       {
+        "elements": [
+         -0.317073170731716,
+         -0.35999999999984394
+        ]
+       },
+       {
+        "elements": [
+         -0.4878048780487857,
+         -0.09999999999999828
+        ]
+       },
+       {
+        "elements": [
+         -0.37804878048781265,
+         -0.0299999999999988
+        ]
+       },
+       {
+        "elements": [
+         -0.43292682926829584,
+         0.24000000000009264
+        ]
+       },
+       {
+        "elements": [
+         -0.26219512195123457,
+         0.09000000000020135
+        ]
+       },
+       {
+        "elements": [
+         -0.3475609756097659,
+         0.1600000000000826
+        ]
+       },
+       {
+        "elements": [
+         -0.28048780487805874,
+         0.47000000000000486
+        ]
+       },
+       {
+        "elements": [
+         -0.12804878048781584,
+         0.42000000000000215
+        ]
+       },
+       {
+        "elements": [
+         -0.20121951219510098,
+         0.24000000000000027
+        ]
+       },
+       {
+        "elements": [
+         -0.060975609756079394,
+         0.48000000000000376
+        ]
+       },
+       {
+        "elements": [
+         0.23780487804878753,
+         0.49000000000000266
+        ]
+       },
+       {
+        "elements": [
+         0.31707317073171687,
+         0.3100000000000032
+        ]
+       },
+       {
+        "elements": [
+         0.2500000000000146,
+         0.2900000000000074
+        ]
+       },
+       {
+        "elements": [
+         0.4085365853658537,
+         0.2600000000000127
+        ]
+       },
+       {
+        "elements": [
+         0.4512195121951289,
+         0.08000000000022799
+        ]
+       },
+       {
+        "elements": [
+         0.3780487804878069,
+         -0.049999999999998254
+        ]
+       },
+       {
+        "elements": [
+         0.31097560975610156,
+         -0.3499999999999898
+        ]
+       },
+       {
+        "elements": [
+         0.20731707317073272,
+         -0.2399999999999784
+        ]
+       },
+       {
+        "elements": [
+         0.28658536585366073,
+         -0.31999999999971834
+        ]
+       },
+       {
+        "elements": [
+         3.996802888650563e-15,
+         -0.3099999999999478
+        ]
+       },
+       {
+        "elements": [
+         0.05487804878049117,
+         -0.19999999999997314
+        ]
+       }
+      ],
+      "attributes": {
+       "fill": "rgba(156,156,156,0.38)",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 0
+      },
+      "viewClass": "AView2D"
+     },
+     "_name": "bc76c",
+     "_children": {},
+     "_objectSpaceCorners": [
+      {
+       "elements": [
+        -0.4878048780487857,
+        -0.369999999999761
+       ]
+      },
+      {
+       "elements": [
+        0.4512195121951289,
+        -0.369999999999761
+       ]
+      },
+      {
+       "elements": [
+        0.4512195121951289,
+        0.49000000000000266
+       ]
+      },
+      {
+       "elements": [
+        -0.4878048780487857,
+        0.49000000000000266
+       ]
+      }
+     ],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "5efae0e6-60f2-47be-ac44-6bb60def6f53",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "d64efbaa-854d-48bb-bf89-4c0d3434ae15",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "c15081e2-44a6-49f8-8c70-2f131c17b6d3",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "31890189-7ef8-4fde-9594-d1b38e0e60b0",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    }
+   },
+   "_objectSpaceCorners": [],
+   "_keyframeTracks": {
+    "position": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "136e5c23-9eff-4fe4-983b-23e4241e2b6a",
+     "_tempState": {},
+     "_name": "position",
+     "_keyframes": []
+    },
+    "scale": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "356eb18d-0beb-44c5-b833-aac92e6c8213",
+     "_tempState": {},
+     "_name": "scale",
+     "_keyframes": []
+    },
+    "rotation": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "20846da9-c953-46ba-b5a2-63c5f943c5e8",
+     "_tempState": {},
+     "_name": "rotation",
+     "_keyframes": []
+    },
+    "anchorshift": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "a4431194-64c8-40de-b6d5-b10da9524289",
+     "_tempState": {},
+     "_name": "anchorshift",
+     "_keyframes": []
+    }
+   },
+   "_currentDisplayTime": 0
+  },
+  "ebaccec0-3aa7-42f4-a103-763b2ca285a0": {
+   "_AObjectClass": "AAnimatedModelGroup",
+   "_uid": "ebaccec0-3aa7-42f4-a103-763b2ca285a0",
+   "_tempState": {},
+   "_modelProperties": {
+    "name": "rootModel",
+    "matrix": {
+     "elements": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+     ]
+    },
+    "position": {
+     "elements": [
+      259.0000000000005,
+      204.00000000000045
+     ]
+    },
+    "anchorshift": {
+     "elements": [
+      -259.0000000000005,
+      -204.00000000000045
+     ]
+    },
+    "scale": {
+     "elements": [
+      1,
+      1
+     ]
+    },
+    "rotation": 0,
+    "objectVertices": [],
+    "attributes": {
+     "fill": "#9ECFFF",
+     "opacity": 1,
+     "stroke": "#000000",
+     "linewidth": 2
+    }
+   },
+   "_name": "rootModel",
+   "_children": {
+    "c9ef0dd8-4828-4e63-b7fc-c365f96d37c7": {
+     "_AObjectClass": "AAnimatedModelGroup",
+     "_uid": "c9ef0dd8-4828-4e63-b7fc-c365f96d37c7",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "Cloud1",
+      "matrix": {
+       "elements": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        1,
+        1
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [],
+      "attributes": {
+       "fill": "#9ECFFF",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 2,
+       "collapsedInTreeView": true
+      }
+     },
+     "_name": "Cloud1",
+     "_children": {},
+     "_objectSpaceCorners": [],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "ade38359-bf66-40c6-9b93-9b7473ef9be2",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "0250ce1e-1e1b-4640-b527-42e8bee31a75",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "9ef5ffc2-d121-4171-bf69-4a96532bccdc",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "e5d296f1-c4ae-4a5a-a857-590c4885a721",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    },
+    "22ba6491-23bd-4656-b369-15022dd84707": {
+     "_AObjectClass": "AAnimatedModelGroup",
+     "_uid": "22ba6491-23bd-4656-b369-15022dd84707",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "Cloud2",
+      "matrix": {
+       "elements": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        1,
+        1
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [],
+      "attributes": {
+       "fill": "#9ECFFF",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 2,
+       "collapsedInTreeView": true
+      }
+     },
+     "_name": "Cloud2",
+     "_children": {},
+     "_objectSpaceCorners": [],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "136e5c23-9eff-4fe4-983b-23e4241e2b6a",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "356eb18d-0beb-44c5-b833-aac92e6c8213",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "20846da9-c953-46ba-b5a2-63c5f943c5e8",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "a4431194-64c8-40de-b6d5-b10da9524289",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    },
+    "1cd44481-bfaa-4c4b-8f3c-43cf4a4a19f1": {
+     "_AObjectClass": "AAnimatedModelGroup",
+     "_uid": "1cd44481-bfaa-4c4b-8f3c-43cf4a4a19f1",
+     "_tempState": {},
+     "_modelProperties": {
+      "name": "DetailedCloud",
+      "matrix": {
+       "elements": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+       ]
+      },
+      "position": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "anchorshift": {
+       "elements": [
+        0,
+        0
+       ]
+      },
+      "scale": {
+       "elements": [
+        1,
+        1
+       ]
+      },
+      "rotation": 0,
+      "objectVertices": [],
+      "attributes": {
+       "fill": "#9ECFFF",
+       "opacity": 1,
+       "stroke": "#000000",
+       "linewidth": 2,
+       "collapsedInTreeView": true
+      },
+      "viewClass": "AView2D"
+     },
+     "_name": "DetailedCloud",
+     "_children": {
+      "2d44bc3c-b902-463c-9286-97b9f140daec": {
+       "_AObjectClass": "AAnimatedModel",
+       "_uid": "2d44bc3c-b902-463c-9286-97b9f140daec",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "2d44b",
+        "matrix": {
+         "elements": [
+          -141.70668342071755,
+          2.4687065696809016,
+          367.0000000000005,
+          -13.079171097105558,
+          -26.747277616533022,
+          149.5000000000017,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          367.00000000000057,
+          149.50000000000176
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          8.881784197001252e-16
+         ]
+        },
+        "scale": {
+         "elements": [
+          142.3089907303359,
+          26.860963721040875
+         ]
+        },
+        "rotation": -3.0495559215387584,
+        "objectVertices": [
+         {
+          "elements": [
+           -0.2941176470588195,
+           0.38000000000001843
+          ]
+         },
+         {
+          "elements": [
+           -0.20588235294117752,
+           0.4599999999999963
+          ]
+         },
+         {
+          "elements": [
+           -0.1134453781512609,
+           0.4280000000000056
+          ]
+         },
+         {
+          "elements": [
+           -0.07983193277311061,
+           0.4199999999999976
+          ]
+         },
+         {
+          "elements": [
+           -0.012605042016806452,
+           0.4120000000000038
+          ]
+         },
+         {
+          "elements": [
+           0.0462184873949577,
+           0.4999999999999968
+          ]
+         },
+         {
+          "elements": [
+           0.15546218487394478,
+           0.5000000000000017
+          ]
+         },
+         {
+          "elements": [
+           0.23949579831932305,
+           0.46799999999999187
+          ]
+         },
+         {
+          "elements": [
+           0.28571428571428464,
+           0.42799999999999405
+          ]
+         },
+         {
+          "elements": [
+           0.3487394957983159,
+           0.3560000000000029
+          ]
+         },
+         {
+          "elements": [
+           0.40756302521008037,
+           0.34799999999998915
+          ]
+         },
+         {
+          "elements": [
+           0.44957983193276885,
+           0.34000000000001623
+          ]
+         },
+         {
+          "elements": [
+           0.4579831932773113,
+           0.2680000000000122
+          ]
+         },
+         {
+          "elements": [
+           0.39915966386554214,
+           0.15600000000000366
+          ]
+         },
+         {
+          "elements": [
+           0.3571428571428535,
+           0.1400000000000121
+          ]
+         },
+         {
+          "elements": [
+           0.29831932773109276,
+           0.1720000000000099
+          ]
+         },
+         {
+          "elements": [
+           0.3277310924369758,
+           0.14000000000001742
+          ]
+         },
+         {
+          "elements": [
+           0.3193277310924359,
+           0.020000000000015557
+          ]
+         },
+         {
+          "elements": [
+           0.29411764705881366,
+           -0.05199999999995562
+          ]
+         },
+         {
+          "elements": [
+           0.20168067226890235,
+           -0.03599999999998537
+          ]
+         },
+         {
+          "elements": [
+           0.14705882352940844,
+           -0.011999999999960927
+          ]
+         },
+         {
+          "elements": [
+           0.23529411764705416,
+           -0.06799999999998317
+          ]
+         },
+         {
+          "elements": [
+           0.1806722689075577,
+           -0.26000000000001217
+          ]
+         },
+         {
+          "elements": [
+           0.12184873949579608,
+           -0.3639999999999978
+          ]
+         },
+         {
+          "elements": [
+           0.03361344537815091,
+           -0.37999999999999445
+          ]
+         },
+         {
+          "elements": [
+           -0.037815126050417695,
+           -0.3560000000000058
+          ]
+         },
+         {
+          "elements": [
+           -0.18487394957983214,
+           -0.12400000000000319
+          ]
+         },
+         {
+          "elements": [
+           -0.13445378151260687,
+           -0.10800000000001028
+          ]
+         },
+         {
+          "elements": [
+           -0.26470588235294235,
+           -0.14000000000001075
+          ]
+         },
+         {
+          "elements": [
+           -0.3781512605042024,
+           0.09200000000000584
+          ]
+         },
+         {
+          "elements": [
+           -0.2689075630252114,
+           0.14800000000000677
+          ]
+         },
+         {
+          "elements": [
+           -0.31512605042016967,
+           0.11600000000000896
+          ]
+         },
+         {
+          "elements": [
+           -0.4537815126050424,
+           0.1319999999999983
+          ]
+         },
+         {
+          "elements": [
+           -0.4789915966386556,
+           0.31599999999999623
+          ]
+         },
+         {
+          "elements": [
+           -0.39495798319327785,
+           0.4039999999999927
+          ]
+         },
+         {
+          "elements": [
+           -0.29411764705882454,
+           0.4119999999999927
+          ]
+         }
+        ],
+        "attributes": {
+         "fill": "rgba(155,155,155,0.38)",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 0
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "2d44b",
+       "_children": {},
+       "_objectSpaceCorners": [
+        {
+         "elements": [
+          -0.4789915966386556,
+          -0.37999999999999445
+         ]
+        },
+        {
+         "elements": [
+          0.4579831932773113,
+          -0.37999999999999445
+         ]
+        },
+        {
+         "elements": [
+          0.4579831932773113,
+          0.5000000000000017
+         ]
+        },
+        {
+         "elements": [
+          -0.4789915966386556,
+          0.5000000000000017
+         ]
+        }
+       ],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "74d221c6-cf72-4fa2-a65e-5e0cb893704b",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "12898bd0-3a72-4ab5-bfe9-0fedb586b9ee",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "b328655d-2f77-44d6-9a1b-beb12b42d45d",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "0b227e28-ff32-4267-9cf8-fb9c834b9453",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      },
+      "14150889-1f9d-49d5-95a6-7638e43c7da6": {
+       "_AObjectClass": "AAnimatedModelGroup",
+       "_uid": "14150889-1f9d-49d5-95a6-7638e43c7da6",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "14150",
+        "matrix": {
+         "elements": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          1,
+          1
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [],
+        "attributes": {
+         "fill": "#9ECFFF",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "14150",
+       "_children": {},
+       "_objectSpaceCorners": [],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "3929e40a-a4cd-4569-b7fc-9a41f0a70dbb",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "669feba6-8425-4f72-887e-6a4eeb555fbf",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "f2f2d1cb-311d-4cd0-9e13-d6771a1616b5",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "a19679e2-59dc-4a72-baaa-eacdbdbb6baa",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      },
+      "9769b628-93ae-4680-9250-bde682a42b46": {
+       "_AObjectClass": "AAnimatedModelGroup",
+       "_uid": "9769b628-93ae-4680-9250-bde682a42b46",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "9769b",
+        "matrix": {
+         "elements": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          1,
+          1
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [],
+        "attributes": {
+         "fill": "#9ECFFF",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "9769b",
+       "_children": {},
+       "_objectSpaceCorners": [],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "98a23314-1713-4364-b8ca-a50f20a9fa8a",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "7cbc67f5-e1e6-426d-a16a-533033d1d397",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "9b411b54-2b6b-47bd-9682-91d7916ffb66",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "ef4a97b9-4acf-42d1-808b-09bcb021d445",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      },
+      "8ce8ecdb-bb50-4dd4-9e4b-71bb97eb83f1": {
+       "_AObjectClass": "AAnimatedModelGroup",
+       "_uid": "8ce8ecdb-bb50-4dd4-9e4b-71bb97eb83f1",
+       "_tempState": {},
+       "_modelProperties": {
+        "name": "8ce8e",
+        "matrix": {
+         "elements": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+         ]
+        },
+        "position": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "anchorshift": {
+         "elements": [
+          0,
+          0
+         ]
+        },
+        "scale": {
+         "elements": [
+          1,
+          1
+         ]
+        },
+        "rotation": 0,
+        "objectVertices": [],
+        "attributes": {
+         "fill": "#9ECFFF",
+         "opacity": 1,
+         "stroke": "#000000",
+         "linewidth": 2
+        },
+        "viewClass": "AView2D"
+       },
+       "_name": "8ce8e",
+       "_children": {},
+       "_objectSpaceCorners": [],
+       "_keyframeTracks": {
+        "position": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "49e426e0-bcfe-4b55-acaf-15c569dbffb8",
+         "_tempState": {},
+         "_name": "position",
+         "_keyframes": []
+        },
+        "scale": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "4eaa188a-45d8-43a3-a2cc-563ac4deb6f3",
+         "_tempState": {},
+         "_name": "scale",
+         "_keyframes": []
+        },
+        "rotation": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "2c38a1d2-2729-4fbf-9dac-26545513d92b",
+         "_tempState": {},
+         "_name": "rotation",
+         "_keyframes": []
+        },
+        "anchorshift": {
+         "_AObjectClass": "AKeyframeTrack",
+         "_uid": "74c70499-2cf4-439b-a967-4a8d7c7af705",
+         "_tempState": {},
+         "_name": "anchorshift",
+         "_keyframes": []
+        }
+       },
+       "_currentDisplayTime": 0
+      }
+     },
+     "_objectSpaceCorners": [],
+     "_keyframeTracks": {
+      "position": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "c419cded-dd7c-4ddf-869c-6849c08edd12",
+       "_tempState": {},
+       "_name": "position",
+       "_keyframes": []
+      },
+      "scale": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "aea95178-b983-4b38-9949-e0d0855addbc",
+       "_tempState": {},
+       "_name": "scale",
+       "_keyframes": []
+      },
+      "rotation": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "07024b74-73ff-4e3a-ae90-42abd1622dd7",
+       "_tempState": {},
+       "_name": "rotation",
+       "_keyframes": []
+      },
+      "anchorshift": {
+       "_AObjectClass": "AKeyframeTrack",
+       "_uid": "0588526c-d076-4c09-8529-dea5f992489a",
+       "_tempState": {},
+       "_name": "anchorshift",
+       "_keyframes": []
+      }
+     },
+     "_currentDisplayTime": 0
+    }
+   },
+   "_objectSpaceCorners": [],
+   "_keyframeTracks": {
+    "position": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "f9540887-ce9b-4607-89d8-8c6dd9ef4efa",
+     "_tempState": {},
+     "_name": "position",
+     "_keyframes": []
+    },
+    "scale": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "c499a84d-eaa0-452a-9601-3b16708da226",
+     "_tempState": {},
+     "_name": "scale",
+     "_keyframes": []
+    },
+    "rotation": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "966acd2b-8f20-4952-b791-a93dd14c9d51",
+     "_tempState": {},
+     "_name": "rotation",
+     "_keyframes": []
+    },
+    "anchorshift": {
+     "_AObjectClass": "AKeyframeTrack",
+     "_uid": "4a564d5e-dee4-4ab1-8825-91becacbba11",
+     "_tempState": {},
+     "_name": "anchorshift",
+     "_keyframes": []
+    }
+   },
+   "_currentDisplayTime": 0
+  }
+ },
+ "_objectSpaceCorners": [],
+ "_keyframeTracks": {
+  "position": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "f9540887-ce9b-4607-89d8-8c6dd9ef4efa",
+   "_tempState": {},
+   "_name": "position",
+   "_keyframes": []
+  },
+  "scale": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "c499a84d-eaa0-452a-9601-3b16708da226",
+   "_tempState": {},
+   "_name": "scale",
+   "_keyframes": []
+  },
+  "rotation": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "966acd2b-8f20-4952-b791-a93dd14c9d51",
+   "_tempState": {},
+   "_name": "rotation",
+   "_keyframes": []
+  },
+  "anchorshift": {
+   "_AObjectClass": "AKeyframeTrack",
+   "_uid": "4a564d5e-dee4-4ab1-8825-91becacbba11",
+   "_tempState": {},
+   "_name": "anchorshift",
+   "_keyframes": []
+  }
+ },
+ "_currentDisplayTime": 0
+}
